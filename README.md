@@ -1,6 +1,6 @@
 # SafeMath Calculator
 
-![Calculator Screenshot](./assets/screenshot.png)
+![Calculator Screenshot](./example.jpeg)
 
 A secure, responsive calculator built with vanilla JavaScript that avoids dangerous `eval()` and `Function()` constructs while providing full calculator functionality.
 
